@@ -607,4 +607,9 @@
   "https://raw.githubusercontent.com/zljr/dsh-share/master/assets/share-page-light.png",
   "https://raw.githubusercontent.com/zljr/dsh-share/master/assets/share-page-dark.png"
  ]
+ ,
+ "https://github.com/534119219/dsh-messaging": [
+  "https://raw.githubusercontent.com/534119219/dsh-messaging/main/assets/sidebar.png",
+  "https://raw.githubusercontent.com/534119219/dsh-messaging/main/assets/dialog.png"
+ ]
 }
